@@ -1,6 +1,6 @@
 ### Hello, world👋
 
-I'm Hector Perio :man_technologist:
+I'm Hector Perio 👨‍💻
 
 Bay Area, California resident for nearly twenty continuous years, close to the heart of Silicon Valley
 
@@ -19,7 +19,7 @@ In this repo, you'll see what I did to learn the front end programming languages
 - 💬 Ask me about ... math/computer science/video games
 - 📫 How to reach me: ... drop me an email at almostfullstack (at) icloud (dot) com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I haven't had a haircut for almost five years! 
+- ⚡ Fun fact: ... I haven't had a haircut for almost five years! In the field of computer science, it's the brain that matters the most. 💡 
 <!--
 **calcomsci/calcomsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
