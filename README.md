@@ -1,6 +1,6 @@
 ### Hello, world👋
 
-I'm Hector Perio 六
+I'm Hector Perio :man_technologist:
 Bay Area, California resident for nearly twenty continuous years, close to the heart of Silicon Valley
 
 I started coding in C++ and Java around 2005-ish, and I still code C++ to this day. It's my default programming language of choice.
